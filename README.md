@@ -12,3 +12,9 @@ Fase 2
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+
+Fase 3
+- **Elabore el diagrama de casos de uso del sistema «MiCita Salud» respetando la notación estándar de UML.**
+
+![alt text](DiagramaCasosUso.png)
