@@ -18,3 +18,11 @@ Fase 3
 - **Elabore el diagrama de casos de uso del sistema «MiCita Salud» respetando la notación estándar de UML.**
 
 ![alt text](DiagramaCasosUso.png)
+
+
+Fase 4
+- **Documente dos (2) casos de uso empleando la siguiente plantilla: uno de ellos debe ser obligatoriamente el que contiene la relación «extend» y el otro uno que contenga una relación «include».**
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
