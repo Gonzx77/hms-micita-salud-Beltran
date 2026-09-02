@@ -8,3 +8,5 @@ soporte de UML 2.5, exportación, colaboración en la nube, curva de aprendizaje
 - **A partir del caso de estudio, diligencie las siguientes tablas. Recuerde que los actores primarios persiguen un objetivo sobre el sistema, mientras que los secundarios prestan un servicio de soporte al sistema o al actor primario.**
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
